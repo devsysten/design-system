@@ -5,7 +5,7 @@ export default {
   title: 'Data display/Avatar',
   component: Avatar,
   args: {
-    src: 'https://github.com/devsystem.png',
+    src: 'https://github.com/devsysten.png',
     alt: 'Esdras Santos',
   },
   argTypes: {
